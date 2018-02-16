@@ -15,6 +15,13 @@ _Updated automatically_
 * [Estelí](https://transit.land/feed-registry/operators/o-d46d6-nicaragua~estel%C3%AD)
 * [Managua](https://transit.land/feed-registry/operators/o-d44t-nicaragua~institutoreguladordeltransportedelmunicipiodemanagua)
 
+### transitfeeds.com
+
+_Submitted, but not integrated yet_
+
+* Estelí
+* Managua
+
 ### navitia.io
 
 _Updated automatically once a week_
