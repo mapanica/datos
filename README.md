@@ -4,7 +4,7 @@ Here can you find the data and the website used by [datos.mapanica.net](https://
 
 ## GTFS files
 
-This is the official source for the updated GTFS files for [Estelí](ni-esteli-gtfs.zip) and [Managua](ni-managua-gtfs.zip).
+This is the official source for the updated GTFS files for the urban buses of [Estelí](ni-esteli-gtfs.zip) and [Managua](ni-managua-gtfs.zip) and for the national buses of whole [Nicaragua](ni-gtfs.zip).
 
 Here's a little list with all the GTFS consumers using these files:
 
