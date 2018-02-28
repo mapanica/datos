@@ -28,7 +28,7 @@ _Updated automatically once a week_
 
 Both GTFS files are loaded into the same `coverage`: [Nicaragua](http://api.navitia.io/v1/coverage/ni)
 
-This backend is currently being integrated in Transportr (see PR [#418](/grote/Transportr/pull/418) and [#419](/grote/Transportr/pull/419))
+This backend is already used by Transportr and is currently being integrated into public-transport-enabler (see PR [#181](/schildbach/public-transport-enabler/pull/181))
 
 ### TransitApp
 
