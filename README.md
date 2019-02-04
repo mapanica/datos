@@ -14,6 +14,7 @@ _Updated automatically_
 
 * [Estelí](https://transit.land/feed-registry/operators/o-d46d6-nicaragua~estel%C3%AD)
 * [Managua](https://transit.land/feed-registry/operators/o-d44t-nicaragua~institutoreguladordeltransportedelmunicipiodemanagua)
+* Nicaragua _(submitted, but not integrated yet)_
 
 ### transitfeeds.com
 
@@ -26,13 +27,15 @@ _Submitted, but not integrated yet_
 
 _Updated automatically once a week_
 
-Both GTFS files are loaded into the same `coverage`: [Nicaragua](http://api.navitia.io/v1/coverage/ni)
+__Caution: Up to now, Navitia only supports validation periods up to twelve months, so there is a need to deploy updated GTFS files at least once a year!__
 
-This backend is already used by Transportr and is currently being integrated into public-transport-enabler (see PR [#181](/schildbach/public-transport-enabler/pull/181))
+The three GTFS files are loaded into the same `coverage`: [Nicaragua](http://api.navitia.io/v1/coverage/ni)
+
+This backend is integrated into [public-transport-enabler](/schildbach/public-transport-enabler/) and used in production by [Transportr](https://transportr.app/) and [Öffi](https://oeffi.schildbach.de/).
 
 ### TransitApp
 
 _Updated automatically every night, at 1AM in Montréal timezone_
 
-Both GTFS files have been loaded into it's backend: [Nicaragua](https://transitapp.com/region/managua)
+Managua and Estelí GTFS files have been loaded into it's backend: [Nicaragua](https://transitapp.com/region/managua)
 
