@@ -14,7 +14,7 @@ _Updated automatically_
 
 * [Estelí](https://transit.land/feed-registry/operators/o-d46d6-nicaragua~estel%C3%AD)
 * [Managua](https://transit.land/feed-registry/operators/o-d44t-nicaragua~institutoreguladordeltransportedelmunicipiodemanagua)
-* Nicaragua _(submitted, but not integrated yet)_
+* [Nicaragua](https://www.transit.land/operators/o-d44-nicaragua)
 
 ### transitfeeds.com
 
